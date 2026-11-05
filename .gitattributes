@@ -1,0 +1,8 @@
+# Preserve exported engineering files and media byte-for-byte.
+*.pdf binary
+*.f3d binary
+*.step binary
+*.glb binary
+*.zip binary
+*.mp4 binary
+*.webp binary
