@@ -6,8 +6,4 @@
 *.zip binary
 *.mp4 binary
 *.webp binary
-cad/**/*.SLDASM binary
-cad/**/*.SLDPRT binary
 cad/**/*.dxf binary
-cad/**/*.stl binary
-cad/**/*.x_t binary
